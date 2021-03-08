@@ -3,6 +3,8 @@ Go RPC (using messaging system)
 
 Go library for RPC client/server based on messaging system (currently support only Kafka)
 
+[![Test](https://github.com/pongsatt/go-rpc/actions/workflows/test.yml/badge.svg)](https://github.com/pongsatt/go-rpc/actions/workflows/test.yml)
+
 Features include:
 
   * Code generation for client proxy and rpc server
