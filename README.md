@@ -7,8 +7,8 @@ Go library for RPC client/server based on messaging system (currently support on
 
 Features include:
 
-  * Code generation for client proxy and rpc server
-  * RPC on kafka
+  * [RPC on kafka](#running-example)
+  * [Code generation for client proxy and rpc server](#code-generation)
 
 Running example
 -------------------------------------------------------------------------------------------
